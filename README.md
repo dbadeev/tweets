@@ -6,7 +6,7 @@
 Цель проекта - анализ тональности твитов. <br>
 Для сообщений пользователей из тестового набора, необходимо предсказать с максимально возможным результатом, является ли тональность твита положительной, отрицательной или нейтральной.<br><br>
 При этом, необходимо: <br>
-1. **Подготовка данных**  _Для получения эмбеддигов, обработать исходные сообщения, используя различные подходы:<br> just tokenization -- stemming -- lemmatization -- steming+misspellings -- lemmatization+misspellings -- any other ideas of preprocessing || 0 or 1, if word exists -- word count -- TFIDF_<br>
+1. **Подготовка данных**  _Для получения эмбеддигов, обработать исходные сообщения, используя различные подходы:<br> just tokenization -- stemming -- lemmatization -- stemming+misspellings -- lemmatization+misspellings -- any other ideas of preprocessing || 0 or 1, if word exists -- word count -- TFIDF_<br>
 
 2. **Определение сходства**  _Среди датасетов, полученных в результате использования различных подходов к предварительной обработке данных, с помощью косинусного сходства, найти 10 наиболее похожих пар твитов_<br>
 
