@@ -58,5 +58,5 @@
 <br><br>
 
 ## Результат в School 21
-<img width="645" alt="image" src="https://github.com/dbadeev/ft_linear_regression/assets/50623941/7a13a846-6c5f-4957-88f5-79e19c388520">
+<img width="640" alt="image" src="https://github.com/user-attachments/assets/1f4ce7e5-20a9-4fe2-8480-30b83ea938c0">
 
